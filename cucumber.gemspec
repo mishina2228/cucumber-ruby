@@ -50,7 +50,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'sinatra', '~> 2.1', '>= 2.1.0'
 
   s.required_rubygems_version = '>= 1.6.1'
-  s.files            = Dir[
+  s.files = Dir[
     'CHANGELOG.md',
     'CONTRIBUTING.md',
     'README.md',
